@@ -1,0 +1,4 @@
+Main-Class: org.lisandro.Hello
+Class-Path: ../src/main/lib/rosario-central-1.0.0.jar
+Built-By: Lisandro Fernandez
+Implementation-URL: https://github.com/lisandrofernandez/java-command-line
